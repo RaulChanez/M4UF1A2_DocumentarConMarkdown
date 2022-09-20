@@ -10,6 +10,7 @@
 Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación.
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Enlace").
+
 | Aplicaciones | Visto |
 | ------------ | ----- |
 | Google Docs | ✅ |
@@ -41,6 +42,8 @@ CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como 
 elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![Flujo de trabajo](https://github.com/RaulChanez/M4UF1A2_DocumentarConMarkdown/blob/main/ImagenFlujo.png)
 
 
 
